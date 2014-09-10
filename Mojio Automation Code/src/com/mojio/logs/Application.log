@@ -1,0 +1,208 @@
+05/09/2014 18:18:35 devpinoyLogger Hello
+05/09/2014 18:18:35 devpinoyLogger Properties loaded. Starting testing
+05/09/2014 18:18:35 devpinoyLogger Intialize Suite xlsx
+05/09/2014 18:18:35 devpinoyLogger Home_Page -- N
+05/09/2014 18:18:35 devpinoyLogger Create_Account -- N
+05/09/2014 18:18:35 devpinoyLogger SignIn -- N
+05/09/2014 18:18:35 devpinoyLogger MyProfile -- N
+05/09/2014 18:18:35 devpinoyLogger Dashboard_Page -- N
+05/09/2014 18:18:35 devpinoyLogger RightHandPanel -- N
+05/09/2014 18:18:35 devpinoyLogger LeftHandPanel -- N
+05/09/2014 18:18:35 devpinoyLogger Contact_Support -- N
+05/09/2014 18:18:35 devpinoyLogger Email_Subscriptions -- N
+05/09/2014 18:18:35 devpinoyLogger CreateNewApp -- N
+05/09/2014 18:18:35 devpinoyLogger My_Apps -- Y
+05/09/2014 18:18:35 devpinoyLogger ******Executing the Suite******My_Apps
+05/09/2014 18:18:36 devpinoyLogger SignIn -- Y
+05/09/2014 18:18:36 devpinoyLogger Executing the test case -> SignIn
+05/09/2014 18:18:36 devpinoyLogger Iteration number 1
+05/09/2014 18:18:36 devpinoyLogger openBrowser
+05/09/2014 18:18:36 devpinoyLogger Opening browser
+05/09/2014 18:18:38 devpinoyLogger PASS
+05/09/2014 18:18:38 devpinoyLogger taking screen shot according to config
+05/09/2014 18:18:38 devpinoyLogger navigate
+05/09/2014 18:18:38 devpinoyLogger Navigating to URL
+05/09/2014 18:18:46 devpinoyLogger PASS
+05/09/2014 18:18:46 devpinoyLogger taking screen shot according to config
+05/09/2014 18:18:47 devpinoyLogger clickLinkByLinkText
+05/09/2014 18:18:47 devpinoyLogger Click using the link text
+05/09/2014 18:18:56 devpinoyLogger PASS
+05/09/2014 18:18:56 devpinoyLogger taking screen shot according to config
+05/09/2014 18:18:56 devpinoyLogger IsTextPresent
+05/09/2014 18:18:56 devpinoyLogger Verify if the text is present in page
+05/09/2014 18:18:56 devpinoyLogger PASS
+05/09/2014 18:18:56 devpinoyLogger taking screen shot according to config
+05/09/2014 18:18:56 devpinoyLogger writeInInput
+05/09/2014 18:18:56 devpinoyLogger Writing in text box
+05/09/2014 18:18:57 devpinoyLogger PASS
+05/09/2014 18:18:57 devpinoyLogger taking screen shot according to config
+05/09/2014 18:18:57 devpinoyLogger writeInInput
+05/09/2014 18:18:57 devpinoyLogger Writing in text box
+05/09/2014 18:18:57 devpinoyLogger PASS
+05/09/2014 18:18:57 devpinoyLogger taking screen shot according to config
+05/09/2014 18:18:57 devpinoyLogger clickByXpath
+05/09/2014 18:18:57 devpinoyLogger Clicking using xpath attribute
+05/09/2014 18:18:59 devpinoyLogger PASS
+05/09/2014 18:18:59 devpinoyLogger taking screen shot according to config
+05/09/2014 18:18:59 devpinoyLogger clickByXpath
+05/09/2014 18:18:59 devpinoyLogger Clicking using xpath attribute
+05/09/2014 18:19:04 devpinoyLogger PASS
+05/09/2014 18:19:04 devpinoyLogger taking screen shot according to config
+05/09/2014 18:19:05 devpinoyLogger Navigate_My_Apps -- N
+05/09/2014 18:19:05 devpinoyLogger Display_App_Details -- N
+05/09/2014 18:19:05 devpinoyLogger Display_Secret_Key -- N
+05/09/2014 18:19:05 devpinoyLogger Display_Sandbox_Secret_Key -- N
+05/09/2014 18:19:05 devpinoyLogger Manage_App -- Y
+05/09/2014 18:19:05 devpinoyLogger Executing the test case -> Manage_App
+05/09/2014 18:19:05 devpinoyLogger Iteration number 1
+05/09/2014 18:19:05 devpinoyLogger navigate
+05/09/2014 18:19:05 devpinoyLogger Navigating to URL
+05/09/2014 18:19:06 devpinoyLogger PASS
+05/09/2014 18:19:06 devpinoyLogger taking screen shot according to config
+05/09/2014 18:19:07 devpinoyLogger clickByXpath
+05/09/2014 18:19:07 devpinoyLogger Clicking using xpath attribute
+05/09/2014 18:19:07 devpinoyLogger PASS
+05/09/2014 18:19:07 devpinoyLogger taking screen shot according to config
+05/09/2014 18:19:07 devpinoyLogger clickLinkByLinkText
+05/09/2014 18:19:07 devpinoyLogger Click using the link text
+05/09/2014 18:19:10 devpinoyLogger PASS
+05/09/2014 18:19:10 devpinoyLogger taking screen shot according to config
+05/09/2014 18:19:11 devpinoyLogger IsTextPresent
+05/09/2014 18:19:11 devpinoyLogger Verify if the text is present in page
+05/09/2014 18:19:11 devpinoyLogger PASS
+05/09/2014 18:19:11 devpinoyLogger taking screen shot according to config
+05/09/2014 18:19:11 devpinoyLogger clickByXpath
+05/09/2014 18:19:11 devpinoyLogger Clicking using xpath attribute
+05/09/2014 18:19:12 devpinoyLogger PASS
+05/09/2014 18:19:12 devpinoyLogger taking screen shot according to config
+05/09/2014 18:19:12 devpinoyLogger IsTextPresent
+05/09/2014 18:19:12 devpinoyLogger Verify if the text is present in page
+05/09/2014 18:19:12 devpinoyLogger PASS
+05/09/2014 18:19:12 devpinoyLogger taking screen shot according to config
+05/09/2014 18:19:12 devpinoyLogger clearFieldById
+05/09/2014 18:19:12 devpinoyLogger Function to clear text using ID
+05/09/2014 18:19:12 devpinoyLogger PASS
+05/09/2014 18:19:12 devpinoyLogger taking screen shot according to config
+05/09/2014 18:19:13 devpinoyLogger clearFieldById
+05/09/2014 18:19:13 devpinoyLogger Function to clear text using ID
+05/09/2014 18:19:13 devpinoyLogger PASS
+05/09/2014 18:19:13 devpinoyLogger taking screen shot according to config
+05/09/2014 18:19:13 devpinoyLogger clearFieldById
+05/09/2014 18:19:13 devpinoyLogger Function to clear text using ID
+05/09/2014 18:19:13 devpinoyLogger PASS
+05/09/2014 18:19:13 devpinoyLogger taking screen shot according to config
+05/09/2014 18:19:13 devpinoyLogger writeInInput
+05/09/2014 18:19:13 devpinoyLogger Writing in text box
+05/09/2014 18:19:13 devpinoyLogger PASS
+05/09/2014 18:19:13 devpinoyLogger taking screen shot according to config
+05/09/2014 18:19:13 devpinoyLogger writeInInput
+05/09/2014 18:19:13 devpinoyLogger Writing in text box
+05/09/2014 18:19:13 devpinoyLogger PASS
+05/09/2014 18:19:13 devpinoyLogger taking screen shot according to config
+05/09/2014 18:19:14 devpinoyLogger selectDropdownValueByValueId
+05/09/2014 18:19:14 devpinoyLogger Choose value from dropdown based on value
+05/09/2014 18:19:14 devpinoyLogger PASS
+05/09/2014 18:19:14 devpinoyLogger taking screen shot according to config
+05/09/2014 18:19:14 devpinoyLogger writeInInput
+05/09/2014 18:19:14 devpinoyLogger Writing in text box
+05/09/2014 18:19:14 devpinoyLogger PASS
+05/09/2014 18:19:14 devpinoyLogger taking screen shot according to config
+05/09/2014 18:19:14 devpinoyLogger clickByID
+05/09/2014 18:19:14 devpinoyLogger clicking using ID attribute
+05/09/2014 18:19:16 devpinoyLogger PASS
+05/09/2014 18:19:16 devpinoyLogger taking screen shot according to config
+05/09/2014 18:19:16 devpinoyLogger IsTextPresent
+05/09/2014 18:19:16 devpinoyLogger Verify if the text is present in page
+05/09/2014 18:19:16 devpinoyLogger PASS
+05/09/2014 18:19:16 devpinoyLogger taking screen shot according to config
+05/09/2014 18:19:16 devpinoyLogger Delete_App -- Y
+05/09/2014 18:19:16 devpinoyLogger Executing the test case -> Delete_App
+05/09/2014 18:19:16 devpinoyLogger Iteration number 1
+05/09/2014 18:19:17 devpinoyLogger navigate
+05/09/2014 18:19:17 devpinoyLogger Navigating to URL
+05/09/2014 18:19:18 devpinoyLogger PASS
+05/09/2014 18:19:18 devpinoyLogger taking screen shot according to config
+05/09/2014 18:19:18 devpinoyLogger clickByXpath
+05/09/2014 18:19:18 devpinoyLogger Clicking using xpath attribute
+05/09/2014 18:19:18 devpinoyLogger PASS
+05/09/2014 18:19:18 devpinoyLogger taking screen shot according to config
+05/09/2014 18:19:18 devpinoyLogger clickLinkByLinkText
+05/09/2014 18:19:18 devpinoyLogger Click using the link text
+05/09/2014 18:19:20 devpinoyLogger PASS
+05/09/2014 18:19:20 devpinoyLogger taking screen shot according to config
+05/09/2014 18:19:20 devpinoyLogger IsTextPresent
+05/09/2014 18:19:20 devpinoyLogger Verify if the text is present in page
+05/09/2014 18:19:20 devpinoyLogger PASS
+05/09/2014 18:19:20 devpinoyLogger taking screen shot according to config
+05/09/2014 18:19:20 devpinoyLogger pause
+05/09/2014 18:19:20 devpinoyLogger Pause the execution for 5 seconds
+05/09/2014 18:19:25 devpinoyLogger PASS
+05/09/2014 18:19:25 devpinoyLogger taking screen shot according to config
+05/09/2014 18:19:25 devpinoyLogger clickByXpath
+05/09/2014 18:19:25 devpinoyLogger Clicking using xpath attribute
+05/09/2014 18:19:25 devpinoyLogger PASS
+05/09/2014 18:19:25 devpinoyLogger taking screen shot according to config
+05/09/2014 18:19:25 devpinoyLogger not able to take screen shotsModal dialog present: Are you sure you want to delete?
+Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:30'
+System info: host: 'OPTIMUS-89', ip: '10.80.6.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_11'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=31.0, platform=XP, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: ba779134-1b67-4257-8932-2e3db0532271
+05/09/2014 18:19:25 devpinoyLogger pause
+05/09/2014 18:19:25 devpinoyLogger Pause the execution for 5 seconds
+05/09/2014 18:19:30 devpinoyLogger PASS
+05/09/2014 18:19:30 devpinoyLogger taking screen shot according to config
+05/09/2014 18:19:30 devpinoyLogger acceptAlert
+05/09/2014 18:19:30 devpinoyLogger Function to accept the alert
+05/09/2014 18:19:33 devpinoyLogger FAILNot able to accept the alertNo alert is present (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.11 seconds
+Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:30'
+System info: host: 'OPTIMUS-89', ip: '10.80.6.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_11'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=31.0, platform=XP, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: ba779134-1b67-4257-8932-2e3db0532271
+05/09/2014 18:19:33 devpinoyLogger taking screen shot according to config
+05/09/2014 18:19:33 devpinoyLogger TextNotPresent
+05/09/2014 18:19:33 devpinoyLogger Verify the text is not present in the page
+05/09/2014 18:19:33 devpinoyLogger FAIL
+05/09/2014 18:19:33 devpinoyLogger taking screen shot according to config
+05/09/2014 18:19:33 devpinoyLogger Create_New_App_Button -- Y
+05/09/2014 18:19:33 devpinoyLogger Executing the test case -> Create_New_App_Button
+05/09/2014 18:19:33 devpinoyLogger Iteration number 1
+05/09/2014 18:19:33 devpinoyLogger navigate
+05/09/2014 18:19:33 devpinoyLogger Navigating to URL
+05/09/2014 18:19:34 devpinoyLogger PASS
+05/09/2014 18:19:34 devpinoyLogger taking screen shot according to config
+05/09/2014 18:19:35 devpinoyLogger clickByXpath
+05/09/2014 18:19:35 devpinoyLogger Clicking using xpath attribute
+05/09/2014 18:19:35 devpinoyLogger PASS
+05/09/2014 18:19:35 devpinoyLogger taking screen shot according to config
+05/09/2014 18:19:35 devpinoyLogger clickLinkByLinkText
+05/09/2014 18:19:35 devpinoyLogger Click using the link text
+05/09/2014 18:19:36 devpinoyLogger PASS
+05/09/2014 18:19:36 devpinoyLogger taking screen shot according to config
+05/09/2014 18:19:36 devpinoyLogger IsTextPresent
+05/09/2014 18:19:36 devpinoyLogger Verify if the text is present in page
+05/09/2014 18:19:37 devpinoyLogger PASS
+05/09/2014 18:19:37 devpinoyLogger taking screen shot according to config
+05/09/2014 18:19:37 devpinoyLogger clickByID
+05/09/2014 18:19:37 devpinoyLogger clicking using ID attribute
+05/09/2014 18:19:38 devpinoyLogger PASS
+05/09/2014 18:19:38 devpinoyLogger taking screen shot according to config
+05/09/2014 18:19:38 devpinoyLogger VerifyCurrentUrl
+05/09/2014 18:19:38 devpinoyLogger Verify the Current url
+05/09/2014 18:19:38 devpinoyLogger PASS
+05/09/2014 18:19:38 devpinoyLogger taking screen shot according to config
+05/09/2014 18:19:38 devpinoyLogger IsTextPresent
+05/09/2014 18:19:38 devpinoyLogger Verify if the text is present in page
+05/09/2014 18:19:38 devpinoyLogger PASS
+05/09/2014 18:19:38 devpinoyLogger taking screen shot according to config
+05/09/2014 18:19:38 devpinoyLogger closeBroswer
+05/09/2014 18:19:38 devpinoyLogger Closing the browser
+05/09/2014 18:19:39 devpinoyLogger PASS
+05/09/2014 18:19:39 devpinoyLogger taking screen shot according to config
+05/09/2014 18:19:39 devpinoyLogger not able to take screen shotsThe FirefoxDriver cannot be used after quit() was called.
+Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:30'
+System info: host: 'OPTIMUS-89', ip: '10.80.6.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_11'
+Driver info: driver.version: FirefoxDriver
+05/09/2014 18:19:39 devpinoyLogger Vehicle_Simulator -- N
