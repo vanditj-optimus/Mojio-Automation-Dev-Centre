@@ -1,0 +1,105 @@
+05/09/2014 21:43:10 devpinoyLogger Hello
+05/09/2014 21:43:10 devpinoyLogger Properties loaded. Starting testing
+05/09/2014 21:43:10 devpinoyLogger Intialize Suite xlsx
+05/09/2014 21:43:11 devpinoyLogger Home_Page -- Y
+05/09/2014 21:43:11 devpinoyLogger ******Executing the Suite******Home_Page
+05/09/2014 21:43:11 devpinoyLogger Header_Twitter -- Y
+05/09/2014 21:43:11 devpinoyLogger Executing the test case -> Header_Twitter
+05/09/2014 21:43:11 devpinoyLogger Iteration number 1
+05/09/2014 21:43:11 devpinoyLogger openBrowser
+05/09/2014 21:43:11 devpinoyLogger Opening browser
+05/09/2014 21:43:14 devpinoyLogger PASS
+05/09/2014 21:43:14 devpinoyLogger taking screen shot according to config
+05/09/2014 21:43:14 devpinoyLogger navigate
+05/09/2014 21:43:14 devpinoyLogger Navigating to URL
+05/09/2014 21:43:21 devpinoyLogger PASS
+05/09/2014 21:43:21 devpinoyLogger taking screen shot according to config
+05/09/2014 21:43:22 devpinoyLogger clickByXpath
+05/09/2014 21:43:22 devpinoyLogger Clicking using xpath attribute
+05/09/2014 21:43:24 devpinoyLogger PASS
+05/09/2014 21:43:24 devpinoyLogger taking screen shot according to config
+05/09/2014 21:43:25 devpinoyLogger NavigateNewWindow
+05/09/2014 21:43:25 devpinoyLogger Navigate to new Window
+05/09/2014 21:43:25 devpinoyLogger PASS
+05/09/2014 21:43:25 devpinoyLogger taking screen shot according to config
+05/09/2014 21:43:31 devpinoyLogger VerifyCurrentUrl
+05/09/2014 21:43:31 devpinoyLogger Verify the Current url
+05/09/2014 21:43:31 devpinoyLogger PASS
+05/09/2014 21:43:31 devpinoyLogger taking screen shot according to config
+05/09/2014 21:43:32 devpinoyLogger IsTextPresent
+05/09/2014 21:43:32 devpinoyLogger Verify if the text is present in page
+05/09/2014 21:43:32 devpinoyLogger PASS
+05/09/2014 21:43:32 devpinoyLogger taking screen shot according to config
+05/09/2014 21:43:33 devpinoyLogger ReturnOldWindow
+05/09/2014 21:43:33 devpinoyLogger Click on a new window
+05/09/2014 21:43:33 devpinoyLogger PASS
+05/09/2014 21:43:33 devpinoyLogger taking screen shot according to config
+05/09/2014 21:43:35 devpinoyLogger Header_Facebook -- N
+05/09/2014 21:43:35 devpinoyLogger Header_Linkedin -- N
+05/09/2014 21:43:35 devpinoyLogger Header_Youtube -- N
+05/09/2014 21:43:35 devpinoyLogger Header_Moj.io_Link -- N
+05/09/2014 21:43:35 devpinoyLogger Header_Store_Link -- N
+05/09/2014 21:43:35 devpinoyLogger Header_Developer_Center_Link -- N
+05/09/2014 21:43:35 devpinoyLogger Header_Sign_In_Link -- N
+05/09/2014 21:43:35 devpinoyLogger Dev_Introduction_To_API -- N
+05/09/2014 21:43:35 devpinoyLogger Dev_Vehicle_Data -- N
+05/09/2014 21:43:35 devpinoyLogger Dev_API_Documentation -- N
+05/09/2014 21:43:35 devpinoyLogger Dev_API_Clients -- N
+05/09/2014 21:43:35 devpinoyLogger Dev_Sample_Code -- N
+05/09/2014 21:43:35 devpinoyLogger Dev_In_Browser_Example -- N
+05/09/2014 21:43:35 devpinoyLogger Home_Developing_With_Mojio -- N
+05/09/2014 21:43:35 devpinoyLogger Home_Build_Your_App -- N
+05/09/2014 21:43:35 devpinoyLogger Home_Video_tutorials -- N
+05/09/2014 21:43:35 devpinoyLogger Home_Developers_Forums -- N
+05/09/2014 21:43:35 devpinoyLogger Home_Dev_Dashboard -- N
+05/09/2014 21:43:35 devpinoyLogger Dev_Resource_API -- N
+05/09/2014 21:43:35 devpinoyLogger Dev_Resource_Simulator -- N
+05/09/2014 21:43:35 devpinoyLogger Dev_Resource_Vehicle_Data -- N
+05/09/2014 21:43:35 devpinoyLogger Dev_Resource_Clients_API -- N
+05/09/2014 21:43:35 devpinoyLogger Dev_Resource_Sample_Code -- N
+05/09/2014 21:43:35 devpinoyLogger Try_Simulator -- N
+05/09/2014 21:43:35 devpinoyLogger Get_An_Account -- N
+05/09/2014 21:43:35 devpinoyLogger Start_Developing_Mojio -- N
+05/09/2014 21:43:35 devpinoyLogger Start_Build_App -- N
+05/09/2014 21:43:35 devpinoyLogger Get_Mojio_API -- N
+05/09/2014 21:43:35 devpinoyLogger Leverage_API -- N
+05/09/2014 21:43:35 devpinoyLogger Email_Mojio_Support -- N
+05/09/2014 21:43:35 devpinoyLogger Invalid_Email -- N
+05/09/2014 21:43:35 devpinoyLogger Name_Empty -- N
+05/09/2014 21:43:35 devpinoyLogger Subject_Empty -- N
+05/09/2014 21:43:35 devpinoyLogger Message_Empty -- N
+05/09/2014 21:43:35 devpinoyLogger All_Feilds_Empty -- N
+05/09/2014 21:43:35 devpinoyLogger Mojio_Image_Footer -- Y
+05/09/2014 21:43:35 devpinoyLogger Executing the test case -> Mojio_Image_Footer
+05/09/2014 21:43:35 devpinoyLogger Iteration number 1
+05/09/2014 21:43:35 devpinoyLogger navigate
+05/09/2014 21:43:35 devpinoyLogger Navigating to URL
+05/09/2014 21:43:37 devpinoyLogger PASS
+05/09/2014 21:43:37 devpinoyLogger taking screen shot according to config
+05/09/2014 21:43:38 devpinoyLogger clickByXpath
+05/09/2014 21:43:38 devpinoyLogger Clicking using xpath attribute
+05/09/2014 21:43:39 devpinoyLogger PASS
+05/09/2014 21:43:39 devpinoyLogger taking screen shot according to config
+05/09/2014 21:43:40 devpinoyLogger VerifyCurrentUrl
+05/09/2014 21:43:40 devpinoyLogger Verify the Current url
+05/09/2014 21:43:40 devpinoyLogger PASS
+05/09/2014 21:43:40 devpinoyLogger taking screen shot according to config
+05/09/2014 21:43:41 devpinoyLogger closeBroswer
+05/09/2014 21:43:41 devpinoyLogger Closing the browser
+05/09/2014 21:43:41 devpinoyLogger PASS
+05/09/2014 21:43:41 devpinoyLogger taking screen shot according to config
+05/09/2014 21:43:41 devpinoyLogger not able to take screen shotsThe FirefoxDriver cannot be used after quit() was called.
+Build info: version: '2.42.2', revision: '6a6995d', time: '2014-06-03 17:42:30'
+System info: host: 'OPTIMUS-89', ip: '192.168.1.227', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_11'
+Driver info: driver.version: FirefoxDriver
+05/09/2014 21:43:42 devpinoyLogger Create_Account -- N
+05/09/2014 21:43:42 devpinoyLogger SignIn -- N
+05/09/2014 21:43:42 devpinoyLogger MyProfile -- N
+05/09/2014 21:43:42 devpinoyLogger Dashboard_Page -- N
+05/09/2014 21:43:42 devpinoyLogger RightHandPanel -- N
+05/09/2014 21:43:42 devpinoyLogger LeftHandPanel -- N
+05/09/2014 21:43:42 devpinoyLogger Contact_Support -- N
+05/09/2014 21:43:42 devpinoyLogger Email_Subscriptions -- N
+05/09/2014 21:43:42 devpinoyLogger CreateNewApp -- N
+05/09/2014 21:43:42 devpinoyLogger My_Apps -- N
+05/09/2014 21:43:42 devpinoyLogger Vehicle_Simulator -- N
